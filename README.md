@@ -7,7 +7,7 @@
 
 
 
-Volara is an open-source risk analysis and portfolio management system inspired by BlackRock's Aladdin platform. It aims to provide comprehensive risk assessment and management tools for stocks, securities, and other market instruments.
+Volara is an open-source risk analysis and portfolio management system. It aims to provide comprehensive risk assessment and management tools for stocks, securities, and other market instruments.
 
 ## Table of Contents
 
