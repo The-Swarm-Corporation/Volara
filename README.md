@@ -1,13 +1,13 @@
 
 
-# open-aladdin
+# Volara
 
 
 [![Join our Discord](https://img.shields.io/badge/Discord-Join%20our%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/agora-999382051935506503) [![Subscribe on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kyegomez3242) [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kye-g-38759a207/) [![Follow on X.com](https://img.shields.io/badge/X.com-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kyegomezb)
 
 
 
-open-aladdin is an open-source risk analysis and portfolio management system inspired by BlackRock's Aladdin platform. It aims to provide comprehensive risk assessment and management tools for stocks, securities, and other market instruments.
+Volara is an open-source risk analysis and portfolio management system inspired by BlackRock's Aladdin platform. It aims to provide comprehensive risk assessment and management tools for stocks, securities, and other market instruments.
 
 ## Table of Contents
 
@@ -29,17 +29,17 @@ open-aladdin is an open-source risk analysis and portfolio management system ins
 
 ## Installation
 
-To install open-aladdin, run the following command:
+To install Volara, run the following command:
 
 ```bash
-pip install open-aladdin
+pip install volara
 ```
 ## Usage
 
 ## Example
 
 ```python
-from open_aladdin.main import fetch_stock_data, AdvancedRealTimeRiskAssessment
+from volara.main import fetch_stock_data, AdvancedRealTimeRiskAssessment
 import time
 
 if __name__ == "__main__":
@@ -96,7 +96,7 @@ For more detailed usage examples and API documentation, please visit our [User G
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to open-aladdin, please follow these steps:
+We welcome contributions from the community! If you'd like to contribute to Volara, please follow these steps:
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)

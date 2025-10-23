@@ -1,4 +1,4 @@
-from open_aladdin.main import (
+from volara.main import (
     fetch_stock_data,
     AdvancedRealTimeRiskAssessment,
 )
