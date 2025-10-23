@@ -1,4 +1,4 @@
-from volara.main import (
+from open_volara.main import (
     fetch_stock_data,
     AdvancedRealTimeRiskAssessment,
 )

@@ -32,14 +32,14 @@ Volara is an open-source risk analysis and portfolio management system. It aims 
 To install Volara, run the following command:
 
 ```bash
-pip install volara
+pip install open-volara
 ```
 ## Usage
 
 ## Example
 
 ```python
-from volara.main import fetch_stock_data, AdvancedRealTimeRiskAssessment
+from open_volara.main import fetch_stock_data, AdvancedRealTimeRiskAssessment
 import time
 
 if __name__ == "__main__":
